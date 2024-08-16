@@ -110,6 +110,7 @@ nav ul:last-child li:nth-child(2) button {
   border-radius: 1in;
   height: 35px;
   transition: background-color 0.2s linear;
+  color:black;
 }
 
 nav ul:last-child li:nth-child(2) button:hover {
@@ -422,6 +423,7 @@ footer li:hover {
     width: 70px;
     height: 23px;
     font-size: 10px;
+    color:black;
   }
   li:last-child button {
     font-size: 10px;
