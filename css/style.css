@@ -269,6 +269,7 @@ section {
   color: black;
   font-size: 18px;
   margin-bottom: 35px;
+  cursor:default;
 }
 
 .Options ul {
@@ -281,6 +282,7 @@ section {
 .Options li:not(.FirstLi) {
   color: rgba(0, 0, 0, 0.58);
   margin-bottom: 25px;
+  cursor:pointer;
 }
 
 .Options ul:first-child {
